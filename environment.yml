@@ -1,0 +1,30 @@
+name: experiment
+channels:
+- bioconda
+- defaults
+dependencies:
+- python=3.6
+- numpy
+- scipy
+- pandas
+- jupyter
+- scikit-learn
+- matplotlib
+- pytest
+- scikit-image
+- traits
+- seaborn
+- statsmodels
+- rpy2
+- mayavi
+- pip:
+  - nipype
+  - nibabel
+  - nilearn
+  - nitime
+  - nipy
+  - pybids
+  - dcm2bids
+  - pysurfer
+  - niwidgets
+  - visbrain
