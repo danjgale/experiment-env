@@ -1,2 +1,4 @@
 # experiment-env
-Conda environment for fMRI experiments
+The conda environment file that I use for my experiments.
+
+
